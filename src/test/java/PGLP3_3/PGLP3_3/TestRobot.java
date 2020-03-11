@@ -14,5 +14,5 @@ public class TestRobot {
 	 for(int i=0;i<Robots.size();i++)
 		 System.out.println("position Robot de type"+(i+1)+":"+Robots.get(i).position);
 	 
- }
+ }//test robot
 }
